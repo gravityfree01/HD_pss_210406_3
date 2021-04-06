@@ -4,7 +4,7 @@
 
 void main() {
     int diameter;
-    printf("지름의값을 입력하세요");
+    printf("지름의값을 입력하세요\n");
     float PI = 3.141592;
     scanf_s("%d", &diameter); 
     float radius = diameter / 2;
